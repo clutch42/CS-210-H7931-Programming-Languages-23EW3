@@ -1,0 +1,5 @@
+﻿  CelsiusConversion.cpp
+C:\Users\clutc\source\repos\CelsiusConversion\CelsiusConversion\CelsiusConversion.cpp(33,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\clutc\source\repos\CelsiusConversion\CelsiusConversion\CelsiusConversion.cpp(48,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\clutc\source\repos\CelsiusConversion\CelsiusConversion\CelsiusConversion.cpp(57,23): warning C4018: '<': signed/unsigned mismatch
+  CelsiusConversion.vcxproj -> C:\Users\clutc\source\repos\CelsiusConversion\Debug\CelsiusConversion.exe
