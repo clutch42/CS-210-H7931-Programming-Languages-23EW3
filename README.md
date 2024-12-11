@@ -1,6 +1,20 @@
-# CS-210-H7931-Programming-Languages-23EW3
+# CS-210-Programming-Languages
 
-Grocery Item Tracker Project
+## Course Description
+Students will develop functional programs that comply with industry regulations and best 
+practices using various programming languages. Special attention will be paid to the 
+importance of developing code that is not only functional, but also secure, efficient, and 
+professional.
+## Course Competencies
+This course covers the following competencies, which represent the knowledge and skills 
+relevant to your field:
+- CS-20401: Utilize various programming languages to develop secure, efficient code
+- CS-20402: Design functional programs that comply with industry regulations and best 
+practices
+- CS-30403: Write professional, well-documented, and readable code
+
+
+## Grocery Item Tracker Project
 
 The purpose of this project was to read in a list of items, and to create a map of the item name along with the number of times the item was in the list. Then the program sends the map to a file in the form of the item name, a space, the quantity of the item, and a new line. The program gives the user the option to display the results as a number, a histogram, to search for a particular item, or to quit the program.
 
